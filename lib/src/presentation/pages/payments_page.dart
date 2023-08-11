@@ -14,7 +14,7 @@ class _PaymentsPageState extends State<PaymentsPage> {
     return Scaffold(
       body: Center(
         child: const Text(
-          'Esse é um exemplo de pacote de pagamentos.\nA única dependência que existe é da Common (design system).\nQualquer quebra que ocorra aqui nçao impacta mais nenhuma parte do TOL.',
+          'Agora sem erro de digitação.\nEsse é um exemplo de pacote de pagamentos.\nA única dependência que existe é da Common (design system).\nQualquer quebra que ocorra aqui não impacta mais nenhuma parte do TOL.',
         ).medium(),
       ),
     );
